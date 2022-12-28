@@ -2,7 +2,7 @@
 - 👀 I’m interested in Artificial Intelligence and Machine Learning
 - 🌱 I’m currently learning multimodal meta learning
 - 💞️ I’m looking to collaborate on Artificial Intelligence and Machine Learning related projects
-- 📫 How to reach me: m1.bashar@qut.edu.au
+- 📫 You can reach me at m1.bashar@qut.edu.au
 
 <!---
 mdabashar/mdabashar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
