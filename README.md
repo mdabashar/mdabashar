@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mdabashar
+- 👋 Hi, I’m Md Abul Bashar (@mdabashar)
 - 👀 I’m interested in Artificial Intelligence and Machine Learning
 - 🌱 I’m currently learning multimodal meta learning
 - 💞️ I’m looking to collaborate on Artificial Intelligence and Machine Learning related projects
